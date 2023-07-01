@@ -354,6 +354,10 @@ textarea{
   background-color: #000;
   color: #fff;
   letter-spacing: 1px;
+  padding-top: 5px;
+  padding-left: 10px;
+  border: 1.5px solid;
+  border-radius: 4px;
 }
 
 .send-button {
@@ -734,6 +738,18 @@ ul.list {
 
 .social-media-list .contact-icon:hover a {
   color: #000;
+}
+
+.quick-message{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin: 0 auto;
+  padding: 20px;
+  position: relative;
+  max-width: 840px;
+  font-size: 1rem;
+
 }
 
 hr {
