@@ -324,11 +324,12 @@ p {
 }
 #landing .left .intro {
     margin-top: 1.5rem;
-    font-size: 0.9rem;
+    font-size: 0.95rem;
     max-width: 400px;
     animation: fade 0.3s ease-in forwards;
     animation-delay: 1.1s;
     opacity: 0;
+    line-height: 1.2rem;
 }
 #landing .left .buttons {
     animation: fade 0.3s ease-in forwards;
