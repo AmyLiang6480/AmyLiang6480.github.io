@@ -46,13 +46,18 @@ header {
 }
 
 h1.white{
-    margin-top: 2rem;
+    margin-top: -3rem;
     color: var(--secondary-color);
     font-size: 2rem;
 }
 
 h4.white{
     color: white;
+}
+
+h5.white{
+    color: white;
+    font-weight: 400;
 }
 
 .nav {
