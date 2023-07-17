@@ -9,6 +9,8 @@
 
 html{
   background-color: var(--background-color);
+
+  max-height: 3300px;
 }
 
 body {
@@ -16,7 +18,10 @@ body {
   padding: 0;
   margin: 0;
   color: var(--text-primary-color);
+
+  max-height: 3300px;
 }
+
 
 hr {
   border-color: var(--primary-color);

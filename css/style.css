@@ -208,9 +208,6 @@ p {
     z-index: -1;
 }
 
-.section-heading .c {
-    margin-bottom: -2rem;
-}
 
 .buttons {
     margin-top: 3rem;
@@ -571,6 +568,7 @@ p {
 /* Projects Section */
 #projects {
     padding: 10rem 0;
+    max-height:1600px;
 }
 #projects .item {
     display: flex;
