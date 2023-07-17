@@ -746,6 +746,7 @@ ul.list {
   flex-direction: row;
   justify-content: space-between;
   margin: 0 auto;
+  margin-top: -2rem;
   padding: 20px;
   position: relative;
   max-width: 840px;

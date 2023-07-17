@@ -208,6 +208,10 @@ p {
     z-index: -1;
 }
 
+.section-heading .c {
+    margin-bottom: -2rem;
+}
+
 .buttons {
     margin-top: 3rem;
     display: flex;
@@ -264,7 +268,7 @@ p {
 #landing {
     height: 100vh;
     width: 100%;
-    margin-top: -6.5rem;
+    margin-top: -10.5rem;
 /*    padding-top: 10rem;*/
 }
 #landing .container {
@@ -759,7 +763,9 @@ p {
     }
 }
 
-
+#contact{
+    margin-top: -6rem;
+}
 
 .section-header {
   text-align: center;
