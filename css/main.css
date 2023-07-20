@@ -58,6 +58,10 @@ p {
   font-family: "Ubuntu";
 }
 
+b{
+  color: var(--highlight-color);
+}
+
 nav a:hover,
 nav a:focus {
   text-decoration: none;
@@ -523,6 +527,7 @@ ul.list {
 .items {
   display: flex;
   /* flex-wrap: wrap; */
+
   gap: 1rem;
 }
 
